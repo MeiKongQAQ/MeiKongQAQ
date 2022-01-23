@@ -16,7 +16,7 @@ _🦌 网页小游戏 🥛_
 
 浏览量超10,000,000+
 
-Github Page:https://github.com/MeiKongQAQ/MeiKongQAQ/blob/main/EatDolores-main/index.html
+Github Page:https://meikongqaq.github.io/MeiKongQAQ/EatDolores-main/index.html
 
 ## 可选功能
 
