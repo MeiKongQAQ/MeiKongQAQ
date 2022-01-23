@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/meikongqaq/EatDolores/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+<img src="https://https://github.com/MeiKongQAQ/MeiKongQAQ/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatDolores"></a>
 </p>
 <div align="center">
 
@@ -16,7 +16,7 @@ _🦌 网页小游戏 🥛_
 
 浏览量超10,000,000+
 
-Github Page:https://meikongqaq.github.io./EatDolores/index.html
+Github Page:https://github.com/MeiKongQAQ/MeiKongQAQ/blob/main/EatDolores-main/index.html
 
 ## 可选功能
 
